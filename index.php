@@ -5,7 +5,7 @@ class index
 {
 public function Display()
 {
-	$output='Hello Zrinko';
+	$output='Hello Africa';
 	return $output;
 }
 
