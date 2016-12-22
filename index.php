@@ -9,3 +9,8 @@ public function Display()
 	return $output;
 }
 }
+?>
+
+<div>
+Zrinko Budimir
+</div>
